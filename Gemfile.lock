@@ -112,7 +112,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.2)
   jekyll-material-theme
-  tzinfo-data
 
 BUNDLED WITH
    1.16.0
