@@ -3,33 +3,26 @@ name: WeBat s.r.o.
 email: alex.ostrovsky@webat.sk
 description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 
-baseurl: "/blog"
-url: ""
+baseurl: ""
+url: "http://webat.sk"
 
-parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/startup3.jpg
+parallax_image_one: assets/images/contact2-test.jpg
 
-project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
-project_one_icon: location_on
+project_one: FASHY
+project_one_url: http://www.fashy.sk
+project_one_description: FASHY your fashy blog. 
 
-project_two: Second Project
-project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
-project_two_icon: photo_camera
+project_two: Promenu
+project_two_url: http://www.promenu.sk
+project_two_description: Objav ďalšie reštaurácie v tvojom okolí v Slovensko. Na portáli promenu.sk nájdete obedové menu, denné menu , jedálny lístok a zoznam reštaurácií na Slovensku, Reštaurácie, akcie, príspevky.
 
+project_three: Kia Motors
+project_three_url: http://www.kia.com
+project_three_description: Kia. The Power to Surprise
 
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
-project_three_icon: hotel
-
-
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
-project_four_icon: restaurant
+project_four: Actionfraud
+project_four_url: https://www.actionfraud.police.uk
+project_four_description: ActionFraud is the UK’s national fraud and cyber crime reporting centre.
 
 portfolio_heading: Portfolio
 portfolio_type: cards
@@ -38,11 +31,10 @@ syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
 
 skills:
-  - name: angularja
+  - name: angularjs
   - name: apple
-  - name: atom
   - name: bootstrap
-  - name: bower
+  - name: coffeescript
   - name: confluence
   - name: css3
   - name: docker
@@ -54,19 +46,30 @@ skills:
   - name: intelliJ
   - name: java
   - name: javascript
+  - name: jquery
+  - name: linux
   - name: mysql
   - name: nginx
-  - name: ruby
-  - name: python
-  - name: wordpress
+  - name: nodejs
   - name: php
+  - name: protractor
+  - name: postgresql
+  - name: python
   - name: rails
-  - name: java
+  - name: ruby
+  - name: sass
+  - name: slack
+  - name: ssh
+  - name: ubuntu
+  - name: visualstudio
+  - name: vuejs
+  - name: webpack
+  - name: wordpress
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
 
-project_button: Github
+project_button: Web
 
 github: https://github.com/jameshamann/jekyll-material-theme
 medium: https://medium.com
